@@ -1,4 +1,4 @@
-# Default starter for Gridsome + tailwind with purging enabled 
+# Default starter for Gridsome + tailwind with purging enabled 🎉🙌
 
 
 
