@@ -4,7 +4,7 @@
 
 ### 1. Prerequisite
 1. you should have git installed in your system
-2. you should have *gridsome cli installed* in your system, if not you can install it with the cmd below
+2. you should have *gridsome cli installed* in your system, if not, you can install it with the cmd below
    `npm install --global @gridsome/cli`
 
 ### 2. Use the starter kit 
